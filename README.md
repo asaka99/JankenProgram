@@ -1,2 +1,1 @@
 # JankenProgram
-# Dice-Program
